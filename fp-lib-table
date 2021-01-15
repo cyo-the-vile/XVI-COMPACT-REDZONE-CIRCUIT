@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "X68000 XVI COMPACT OVERCLOCK")(type KiCad)(uri "C:/Users/Ben/Documents/KiCad/X68000 XVI COMPACT OVERCLOCK")(options "")(descr ""))
+  (lib (name "XVI COMPACT OVERCLOCK CIRCUIT")(type KiCad)(uri "C:/Users/Ben/Documents/KiCad/X68000 XVI COMPACT OVERCLOCK/XVI COMPACT OVERCLOCK CIRCUIT")(options "")(descr ""))
+)
